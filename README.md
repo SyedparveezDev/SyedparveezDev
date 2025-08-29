@@ -69,15 +69,6 @@
 
 ---
 
-## 🎥 Latest YouTube Video  
-<p align="center">
-  <a href="https://www.youtube.com/@YourChannelName">
-    <img src="https://img.shields.io/badge/Watch%20My%20Channel-red?logo=youtube&logoColor=white&style=for-the-badge"/>
-  </a>
-</p>
-
----
-
 ## ✨ Quote to Live By  
 <p align="center">
   <i>"Don't let anyone tell you that you can't do something.  
