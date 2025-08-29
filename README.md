@@ -12,7 +12,7 @@
 <!-- Profile Widget -->
 <p align="center">
   <a href="https://github.com/SyedparveezDev">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=SyedparveezDev&data=followers,repositories,stars,commits&theme=darkmode" width="90%">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=SyedparveezDev&data=followers,repositories,stars,commits&theme=darkmode" width="500">
   </a>
 </p>
 
@@ -70,7 +70,6 @@
 ---
 
 ## 🎥 Latest YouTube Video  
-<!-- You can connect this with GitHub Actions to auto-update -->
 <p align="center">
   <a href="https://www.youtube.com/@YourChannelName">
     <img src="https://img.shields.io/badge/Watch%20My%20Channel-red?logo=youtube&logoColor=white&style=for-the-badge"/>
@@ -87,4 +86,13 @@
 
 ---
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%">
+<p align="center">
+  <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%">
+</p>
+
+---
+
+## 📝 Copyright  
+<p align="center">
+  © 2025 Syed Parveez Afham. All Rights Reserved.
+</p>
