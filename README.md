@@ -12,7 +12,7 @@
 <!-- Profile Widget -->
 <p align="center">
   <a href="https://github.com/SyedparveezDev">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=SyedparveezDev&data=followers,repositories,stars,commits&theme=darkmode" width="500">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=SyedparveezDev&data=followers,repositories,stars,commits&theme=darkmode" width="90%">
   </a>
 </p>
 
@@ -21,16 +21,15 @@
 <h2 align="center">👋 Hey, I'm <span style="color:#20C20E">Syed Parveez Afham</span></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer;Full-Stack+Developer;C%2B%2B+Learner;YouTuber+%7C+History+%26+Mysteries;Always+Learning+New+Things&font=Fira+Code&center=true&width=600&height=45&color=20C20E&pause=1000&size=22">
+  <img src="https://readme-typing-svg.demolab.com?lines=Software+Engineer;Full-Stack+Developer;C%2B%2B+Learner;Always+Learning+New+Things;Passionate+about+Clean+Code&font=Fira+Code&center=true&width=600&height=45&color=20C20E&pause=1000&size=22">
 </p>
 
 ---
 
 ## 🚀 About Me  
 - 💻 Software Engineer passionate about **building scalable apps**  
-- 🧭 Currently exploring **C++, React, and Mac terminal mastery**  
-- 🎥 Creator of a **YouTube channel** on history, mysteries, and timeless stories  
-- 🌍 Believe in mixing **storytelling with technology**  
+- 🧭 Currently exploring **C++, React, and system design**  
+- 🌍 Believe in mixing **creativity with technology**  
 - ⚡ Motto: *"Clean code, clear vision, creative life."*  
 
 ---
@@ -69,6 +68,17 @@
 
 ---
 
+<!-- GitHub Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SyedparveezDev/SyedparveezDev/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SyedparveezDev/SyedparveezDev/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/SyedparveezDev/SyedparveezDev/blob/output/ocean.gif" />
+  </picture>
+</div>
+
+---
+
 ## ✨ Quote to Live By  
 <p align="center">
   <i>"Don't let anyone tell you that you can't do something.  
@@ -81,9 +91,6 @@
   <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%">
 </p>
 
----
-
-## 📝 Copyright  
 <p align="center">
-  © 2025 Syed Parveez Afham. All Rights Reserved.
+  © 2025 Syed Parveez Afham. All rights reserved.
 </p>
